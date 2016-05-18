@@ -1,0 +1,12 @@
+# Compiled source #
+###################
+*.meta
+*.pdb
+
+# Downloaded assets #
+###################
+*.zip
+*.a
+Assets/OpenCVForUnity/Plugins/iOS/opencv2.framework/Versions/A/opencv2
+Assets/OpenCVForUnity/Plugins/iOS/opencv2.framework/Versions/Current/opencv2
+Assets/OpenCVForUnity/Plugins/*

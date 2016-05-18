@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food Pong.CSharp", "Food Pong.CSharp.csproj", "{3E01C5B4-FC53-4751-605B-0EB61EF8CE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food Pong.CSharp.Editor", "Food Pong.CSharp.Editor.csproj", "{47105B4A-6C97-51FD-DC87-EDC8C2EAD82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E01C5B4-FC53-4751-605B-0EB61EF8CE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E01C5B4-FC53-4751-605B-0EB61EF8CE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E01C5B4-FC53-4751-605B-0EB61EF8CE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E01C5B4-FC53-4751-605B-0EB61EF8CE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47105B4A-6C97-51FD-DC87-EDC8C2EAD82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47105B4A-6C97-51FD-DC87-EDC8C2EAD82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47105B4A-6C97-51FD-DC87-EDC8C2EAD82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47105B4A-6C97-51FD-DC87-EDC8C2EAD82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
